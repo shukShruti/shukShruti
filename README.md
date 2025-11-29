@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shukShruti
 - 👀 I’m interested in artificial intelligence and ML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ML 
 - 📫 How to reach me : shukshruti@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love to code
